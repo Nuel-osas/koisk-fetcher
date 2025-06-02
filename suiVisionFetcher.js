@@ -17,7 +17,7 @@ const walletAddress = '0x98a945d6523ba0b4685c4d50d0449c811fded93ad7a20cf2d61af6a
 const targetNFTType = '0xd44eeba23c7256b426113b5b645638f00abc0f27ec224f7286be6f9853df8a5a::_sudoz_artifacts::Nft';
 
 // BlockVision API Key
-const BLOCKVISION_API_KEY = '2vmcIQeMF5JdhEXyuyQ8n79UNoO';
+const BLOCKVISION_API_KEY = 'put your own api';
 
 // BlockVision API for fetching kiosk NFTs
 async function fetchNFTsWithBlockVision(walletAddress, apiKey) {
